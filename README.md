@@ -1,5 +1,3 @@
-# M1 Coursework Folder
-
 ## **Project Overview**
 
 The objective of this project is to create an inference pipeline capable of successfully classifying the result of the addition of combined images of two handwritten MNIST digits. 
@@ -8,7 +6,7 @@ The objective of this project is to create an inference pipeline capable of succ
 
 ## **Project Structure**
 
-- `data.ipynb`                : Answers question 1 and explores the MNIST dataset  
+- `data.ipynb`                : Explores the MNIST dataset  
 - `models.ipynb`              : Main notebook for implementing machine learning models  
 - `requirements.txt`          : A list of all the required Python modules to ensure your environment is ready to run the notebook  
 - `report/`                   : Folder containing the Coursework report  
